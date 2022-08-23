@@ -8,6 +8,8 @@
 * Adding border radius.
 * setting svg image as background using absolute positioning in top, right corner.
 
+[Deployed Link](https://web-design-landing-page-clone.netlify.app/)
+
 
 ![thumbnail](thumb1.png)
 ![thumbnail](thumb2.png)
